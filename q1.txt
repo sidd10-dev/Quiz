@@ -1,0 +1,5 @@
+What is the capital of Tamilnadu? :: chennai:coimbatore:mumbai:delhi
+What is the capital of India? :: jakarta:kathmandu:new delhi:new york
+What is the capital of Karnataka? :: blr:hyd:chn:mum
+What is the state that andhra pradesh was split into? :: telangana:tn:maharashtra:orissa
+Who is the ruling party of india? :: BJP:congress:TDP:DMK
